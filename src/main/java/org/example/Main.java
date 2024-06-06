@@ -15,6 +15,7 @@ public class Main {
             System.out.println("Voici un modification ajouter par l'utilisateur");
             System.out.println("nouveau commit");
             System.out.println("nouveau commit sur la branche_2");
+            System.out.println("nouveau commit sur la branche_2.2");
 
 
 
